@@ -41,5 +41,13 @@
   "slider":[
       {"id":1, "title": "Slider 1", "image":"https://ggcompany.ge/upload/eshop/slider/s1.jpg"},
       {"id":2, "title": "Slider 2", "image":"https://ggcompany.ge/upload/eshop/slider/s2.jpg"}
+  ],
+  "comments":[
+    {"id":1, "comment-product":2, "comment-text":"comment for product id 2"},
+    {"id":2, "comment-product":2, "comment-text":"comment for product id 2"},
+    {"id":3, "comment-product":1, "comment-text":"comment for product id 1"},
+    {"id":4, "comment-product":4, "comment-text":"comment for product id 4"},
+    {"id":5, "comment-product":5, "comment-text":"comment for product id 5"},
+    {"id":6, "comment-product":8, "comment-text":"comment for product id 8"}
   ]
 }
